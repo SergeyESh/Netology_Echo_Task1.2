@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m60nuujb4hm0sca4?svg=true)](https://ci.appveyor.com/project/SergeyESh/netology-echo-task1-2)
